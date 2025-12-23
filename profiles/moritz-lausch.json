@@ -1,0 +1,52 @@
+{
+    "slug": "moritz-lausch",
+    "name": "Moritz Lausch",
+    "qualifications": ["Rettungssanitäter"],
+    "orgLine": "BRK Bereitschaft Nürnberg",
+    "avatar": "/avatars/moritz-lausch.png",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.",
+    "badges": ["Bereitschaft 5", "SEG-Transport", "Öffentlichkeitsarbeit"],
+    "career": [
+        {
+            "position": "Mitglied der Schnelleinsatzgruppe (SEG)",
+            "organization": "BRK Bereitschaft Nürnberg - Bereitschaft 5",
+            "startDate": "Januar 2023",
+            "isCurrent": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod."
+        },
+        {
+            "position": "Ausbildungsleiter",
+            "organization": "BRK Bereitschaft Nürnberg",
+            "startDate": "November 2022",
+            "endDate": "Dezember 2024",
+            "description": "Dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt."
+        },
+        {
+            "position": "Rettungssanitäter",
+            "organization": "BRK Bereitschaft Nürnberg",
+            "startDate": "Januar 2019",
+            "endDate": "November 2022",
+            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "position": "Helfer im Sanitätsdienst",
+            "organization": "BRK Bereitschaft Nürnberg",
+            "startDate": "Januar 2018",
+            "endDate": "Dezember 2019",
+            "description": "Consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore."
+        }
+    ],
+    "links": [
+        {
+            "label": "Der BRK im Web",
+            "href": "https://www.brk.de/",
+            "icon": "globe"
+        },
+        {
+            "label": "Schreib mir eine E-Mail",
+            "href": "mailto:moritz@example.org",
+            "icon": "mail"
+        }
+    ],
+    "theme": { "accent": "#E30613" }
+}

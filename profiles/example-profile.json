@@ -1,0 +1,51 @@
+{
+    "slug": "example-profile",
+    "name": "Anna Müller",
+    "qualifications": ["Notfalleinsatz", "Teamleitung", "Erste Hilfe"],
+    "orgLine": "BRK Bereitschaft München",
+    "bio": "Erfahrene Rettungssanitäterin mit Leidenschaft für Einsatzkoordination und Ausbildung neuer Mitglieder.",
+    "badges": ["Bereitschaft 7", "Notfallteam", "Ausbilderin", "Drohnen-Pilot"],
+    "career": [
+        {
+            "position": "Einsatzkoordinatorin",
+            "organization": "BRK Bereitschaft München",
+            "startDate": "März 2023",
+            "isCurrent": true,
+            "description": "Koordination von Einsätzen, Personalplanung und Qualitätssicherung im Einsatzbereich."
+        },
+        {
+            "position": "Rettungssanitäterin",
+            "organization": "BRK Bereitschaft München",
+            "startDate": "Juni 2019",
+            "endDate": "Februar 2023",
+            "description": "Versorgung von Patienten bei Notfällen, Sanitätsdienste und medizinische Grundversorgung."
+        },
+        {
+            "position": "Ausbildungshelfer",
+            "organization": "BRK Bereitschaft München",
+            "startDate": "Januar 2019",
+            "endDate": "Mai 2019",
+            "description": "Unterstützung bei Ausbildungskursen und praktische Schulung von Anfängern."
+        }
+    ],
+    "links": [
+        {
+            "label": "BRK Bereitschaft",
+            "href": "https://www.brk.de/",
+            "icon": "globe"
+        },
+        {
+            "label": "E-Mail",
+            "href": "mailto:anna.mueller@example.org",
+            "icon": "mail"
+        },
+        {
+            "label": "Instagram",
+            "href": "https://instagram.com/",
+            "icon": "instagram"
+        }
+    ],
+    "theme": {
+        "accent": "#0055AA"
+    }
+}
